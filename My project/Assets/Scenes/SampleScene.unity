@@ -200,12 +200,12 @@ MonoBehaviour:
   height: 6
   candyPrefab: {fileID: 612337503147908797, guid: 53cadead490f64d429b812c200fb6a50, type: 3}
   candySprites:
-  - {fileID: 1440151059, guid: 2b7380c7ff9f15747992ad8e88402437, type: 3}
-  - {fileID: -980562312, guid: 2b7380c7ff9f15747992ad8e88402437, type: 3}
-  - {fileID: 1919556363, guid: 2b7380c7ff9f15747992ad8e88402437, type: 3}
-  - {fileID: 1238747620, guid: 2b7380c7ff9f15747992ad8e88402437, type: 3}
-  - {fileID: 1914932986, guid: 2b7380c7ff9f15747992ad8e88402437, type: 3}
-  - {fileID: 1875296990, guid: 2b7380c7ff9f15747992ad8e88402437, type: 3}
+  - {fileID: 21300000, guid: 5633b4f4f3eb81145b52b7a98c7806ea, type: 3}
+  - {fileID: 21300000, guid: accb7b379be9f6a48809c642fbe0cd8a, type: 3}
+  - {fileID: 21300000, guid: 92573d47884f2d94cb34029b55022a32, type: 3}
+  - {fileID: 21300000, guid: fa7bdcff140a32e499737583286fe247, type: 3}
+  - {fileID: 21300000, guid: db7c70e6cd8d92744a65d936c2eac6a4, type: 3}
+  - {fileID: 21300000, guid: ae81acedb8ddd8b409186e476d365bf8, type: 3}
 --- !u!4 &434134588
 Transform:
   m_ObjectHideFlags: 0
